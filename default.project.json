@@ -1,0 +1,20 @@
+{
+  "name": "HW2",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+        "$path": "Scripts/Replicated"
+    },
+
+    "ServerScriptService": {      
+        "$path": "Scripts/Server"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "Scripts/Client/Player"
+      }
+    }
+  }
+}
